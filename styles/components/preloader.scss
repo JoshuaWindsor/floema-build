@@ -1,0 +1,25 @@
+.preloader{
+  @extend %cover;
+  @extend %center;
+  background-color: $colour-tertiary;
+  color: $colour-primary;
+  //display: none;
+  text-align: center;
+  z-index:11;
+}
+
+.preloader__text{
+  font-size: 5.3rem;
+  line-height: 1;
+  font-family: $font-pp-mori;
+ max-width: 90rem;
+}
+
+.preloader__number{
+  @extend %description-24;
+  position: absolute;
+  bottom: 12rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+

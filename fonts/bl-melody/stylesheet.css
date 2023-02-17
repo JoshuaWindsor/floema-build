@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'BL Melody Mono';
+    src: url('BLMelodyMono-SemiBold.woff2') format('woff2'),
+        url('BLMelodyMono-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BL Melody';
+    src: url('BLMelody-SemiBold.woff2') format('woff2'),
+        url('BLMelody-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BL Melody';
+    src: url('BLMelody-Bold.woff2') format('woff2'),
+        url('BLMelody-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BL Melody Mono Book';
+    src: url('BLMelodyMono-Book.woff2') format('woff2'),
+        url('BLMelodyMono-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

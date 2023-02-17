@@ -1,0 +1,114 @@
+//--------------------------
+//Roboto import
+@font-face {
+  font-family: $font-roboto;
+  src: url('../fonts/roboto/roboto-black.woff2') format('woff2'),
+      url('../fonts/roboto/roboto-black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-roboto;
+  src: url('../fonts/roboto/roboto-regular.woff2') format('woff2'),
+      url('../fonts/roboto/roboto-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-roboto;
+  src: url('../fonts/roboto/roboto-bold.woff2') format('woff2'),
+      url('../fonts/roboto/roboto-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-roboto;
+  src: url('../fonts/roboto/roboto-light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-roboto;
+  src: url('../fonts/roboto/roboto-medium.woff2') format('woff2'),
+      url('../fonts/roboto/roboto-medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+//--------------------------
+//PP Mori
+@font-face {
+  font-family: $font-pp-mori;
+  src: url('../fonts/PP-Mori/PPMori-SemiBold.woff2') format('woff2'),
+      url('../fonts/PP-Mori/PPMori-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-pp-mori;
+  src: url('../fonts/PP-Mori/PPMori-SemiBoldItalic.woff2') format('woff2'),
+      url('../fonts/PP-Mori/PPMori-SemiBoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-pp-mori;
+  src: url('../fonts/PP-Mori/PPMori-Regular.woff2') format('woff2'),
+      url('../fonts/PP-Mori/PPMori-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+//--------------------------
+//BL Melody
+@font-face {
+  font-family: $font-bl-melody;
+  src: url('../fonts/BL-Melody/BLMelody-SemiBold.woff2') format('woff2'),
+      url('../fonts/BL-Melody/BLMelody-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-bl-melody;
+  src: url('../fonts/BL-Melody/BLMelody-Bold.woff2') format('woff2'),
+      url('../fonts/BL-Melody/BLMelody-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-bl-melody-mono;
+  src: url('../fonts/BL-Melody/BLMelodyMono-SemiBold.woff2') format('woff2'),
+      url('../fonts/BL-Melody/BLMelodyMono-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $font-bl-melody-mono;
+  src: url('../fonts/BL-Melody/BLMelodyMono-Book.woff2') format('woff2'),
+      url('../fonts/BL-Melody/BLMelodyMono-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+

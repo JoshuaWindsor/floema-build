@@ -1,0 +1,39 @@
+.about__gallery{
+  height: 58rem;
+  margin: 20rem 0;
+  position: relative;
+  display: flex;
+  justify-content: center;
+
+  &:first-child{
+      margin-top: 0;
+  }
+
+  &:last-child{
+    margin-bottom: 0;
+  }
+
+  @include media('<phone'){
+    height: auto;
+    margin: 10rem 0;
+  }
+}
+
+.about__gallery__wrapper{
+  align-items: center;
+  position: relative;
+  display: flex;
+  gap: 4rem;
+}
+
+.about__gallery__media{
+  position: relative;
+  height: 43rem;
+  width: 30rem;
+  margin: 0 4rem;
+}
+
+.about_gallery__media__image{
+  @extend %cover;
+  object-fit:cover;
+}

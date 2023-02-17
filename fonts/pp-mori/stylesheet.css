@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'PP Mori';
+    src: url('PPMori-SemiBold.woff2') format('woff2'),
+        url('PPMori-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Mori';
+    src: url('PPMori-SemiBoldItalic.woff2') format('woff2'),
+        url('PPMori-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Mori';
+    src: url('PPMori-Regular.woff2') format('woff2'),
+        url('PPMori-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

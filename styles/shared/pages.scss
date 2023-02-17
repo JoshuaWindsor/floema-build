@@ -1,0 +1,10 @@
+%page{
+  @extend %cover;
+  background-color: $colour-primary;
+  color: $colour-tertiary;
+  
+}
+
+%page__wrapper{
+  color:inherit;
+}

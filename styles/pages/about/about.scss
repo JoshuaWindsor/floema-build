@@ -1,0 +1,27 @@
+.about{
+  @extend %page;
+}
+
+.about__wrapper{
+
+  padding:20rem 6rem;
+  
+  @include media('<phone'){
+    display: flex;
+    flex-direction:column;
+    padding:20rem 6rem;
+    overflow-x: hidden;
+  }
+}
+
+.about__title{
+  @extend %title-100;
+  margin:auto;
+  max-width: 124rem;
+  text-align: center;
+}
+
+.about__primary__label{
+
+
+}
